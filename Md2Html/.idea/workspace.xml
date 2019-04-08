@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d7caca4-88be-4c3c-9863-a344a2765419" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlAllTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlImageTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlLinkTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlMarkTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artifacts/md2html/Md2HtmlUnderlineTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/Asserts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/MainChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/MainFilesChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/Randomized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/TestCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/Triple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/TripleExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/exceptions/ExceptionsHighLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/exceptions/ExceptionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/exceptions/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/GenericAsmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/GenericAsmUfbTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/GenericLsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/GenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/GenericUfbTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/generic/Tabulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/parser/Either.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/parser/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/expression/parser/ParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlAllTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlImageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlLinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlMarkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/md2html/Md2HtmlUnderlineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/RunJS.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/RunJS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/RunJS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/RunJS.node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/RunJS.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/TestJS.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/TestJS.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/examples/0_1_magic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/examples/1_1_types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/examples/1_2_functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/examples/1_3_functions-hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/compiler.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/graal-sdk.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/graaljs-scriptengine.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/graaljs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/tregex.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/graal/truffle-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/AbstractTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/ArithmeticTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/BaseJavascriptTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/EngineException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/JSEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/VariablesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalExpressionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalIffAbsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalOneIffAbsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalOneTwoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalPieAvgMedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalPieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/jstest/functional/FunctionalVariablesTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="221488774">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="2" />
+          <entry key="in" value="1" />
+          <entry key="java" value="34" />
+          <entry key="out" value="1" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="34" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="6489" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6489" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/md2html/FileMd2Html.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/md2html/Md2Html.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/md2html/Md2HtmlImageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#1404#1405#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FileMd2Html.java" />
+        <option value="$PROJECT_DIR$/src/Md2HtmlSource.java" />
+        <option value="$PROJECT_DIR$/../HW12/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Md2Html.java" />
+        <option value="$PROJECT_DIR$/src/Md2HtmlParser.java" />
+        <option value="$PROJECT_DIR$/src/md2html/Md2Html.java" />
+        <option value="$PROJECT_DIR$/src/md2html/Md2HtmlSource.java" />
+        <option value="$PROJECT_DIR$/src/md2html/FileMd2Html.java" />
+        <option value="$PROJECT_DIR$/src/md2html/Md2HtmlTest.java" />
+        <option value="$PROJECT_DIR$/src/md2html/Md2HtmlImageTest.java" />
+        <option value="$PROJECT_DIR$/src/t.txt" />
+        <option value="$PROJECT_DIR$/src/md2html/Md2HtmlParser.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Md2Html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Md2Html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551174472298" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Md2HtmlImageTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Md2Html" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlImageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlImageTest" />
+      <module name="Md2Html" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlTest" />
+      <module name="Md2Html" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Md2HtmlTest" />
+      <item itemvalue="Application.Md2HtmlImageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Md2HtmlImageTest" />
+        <item itemvalue="Application.Md2HtmlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7caca4-88be-4c3c-9863-a344a2765419" name="Default Changelist" comment="" />
+      <created>1550496968478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550496968478</updated>
+      <workItem from="1550496973328" duration="8893000" />
+      <workItem from="1550506317793" duration="22240000" />
+      <workItem from="1550529113746" duration="791000" />
+      <workItem from="1550565449959" duration="3746000" />
+      <workItem from="1550570550800" duration="838000" />
+      <workItem from="1551114842112" duration="5790000" />
+      <workItem from="1551170375712" duration="4018000" />
+      <workItem from="1551174588534" duration="46000" />
+      <workItem from="1554712333880" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46431000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.17961784" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.2267516" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43694267" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Leiningen" />
+      <window_info anchor="right" id="REPL" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../HW12/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/Asserts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tester1.out" />
+    <entry file="file://$PROJECT_DIR$/tester1.in" />
+    <entry file="file://$PROJECT_DIR$/Md2Html.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tester.txt" />
+    <entry file="file://$PROJECT_DIR$/src/base/TestCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/MainChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/MainFilesChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/t.txt" />
+    <entry file="file://$PROJECT_DIR$/src/md2html/Md2HtmlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7686#7687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md2html/Md2HtmlParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="244" column="31" selection-start-line="244" selection-start-column="31" selection-end-line="244" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md2html/Md2HtmlSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md2html/FileMd2Html.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md2html/Md2Html.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md2html/Md2HtmlImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#1404#1405#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
